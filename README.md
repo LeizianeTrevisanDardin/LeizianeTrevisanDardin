@@ -1,13 +1,14 @@
 ## My stacks:
-- 1 year of experience in stacks: HTML, CSS, JS, React.Js along with API implementation
-- 1 Year of experience in Node.js, Express.js, JQuery
-- 1 year of experience in C++
-- 1 year of experience in C# and OOP Principles
-- 1 year of Windows forms projects
-- 1 year of SQL, NoSQL (MongoDB) and LINQ
+- HTML, CSS, JS, React.Js, Next.js along with API implementation
+- Node.js, Express.js, JQuery, Python, Typscript
+- C++, c$, Java, PHP and OOP Principles
+- Windows forms projects
+- SQL, NoSQL (MongoDB), LINQ and PostgreSql (Firebase and Supabase)
+- Docker
 - 5+ years in leadership
 - 8 years Teamwork
 - 8 years of management
+  
 <br>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br><br>
