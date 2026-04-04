@@ -32,6 +32,13 @@
 </div>
 
 
+## My Journey
+<div>
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LeizianeTrevisanDardin&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=LeizianeTrevisanDardin&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=LeizianeTrevisanDardin&theme=onedark" />
+</div>
+
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/LizzyTrevisan/LizzyTrevisan/output/github-contribution-grid-snake-dark.svg)
 
