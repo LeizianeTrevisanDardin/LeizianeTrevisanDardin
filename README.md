@@ -40,6 +40,6 @@
 </div>
 
 ## Feeding...
-![Snake animation](https://raw.githubusercontent.com/LizzyTrevisan/LizzyTrevisan/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/LeizianeTrevisanDardin/LeizianeTrevisanDardin/output/github-contribution-grid-snake-dark.svg)
 
 
