@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm  Lizzy 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
-<h3 align="center">I am a Full-Stack Developer Junior from Canada </h3>
+<h3 align="center">I am a Full-Stack Developer Jr and Project Manager from Canada </h3>
 
 ❤️ Front-End: HTML5, CSS,  SASS, Javascript Vanilla, REACT.js. Last experience in a project: https://github.com/TyLandry/Coworking-Group-2  </br>
 ❤️ Front-End: Experience in UI Design using Figma and rebuilt an affiliate e-commerce website using WordPress(with Woocommerce Plugins and Elementor Free).</br>
