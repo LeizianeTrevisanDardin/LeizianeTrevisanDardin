@@ -30,6 +30,7 @@ Docker
 Postman
 VS Code
 AWS
+WordPress
 
 Calgary, Alberta
 
