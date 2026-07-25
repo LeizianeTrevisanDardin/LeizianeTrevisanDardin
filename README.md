@@ -35,7 +35,7 @@ WordPress
 Calgary, Alberta
 
 Portfolio:
-https://leiziane-portfolio.vercel.app
+https://portfolio-by-lizzy.vercel.app/
 
 LinkedIn:
 linkedin.com/in/leiziane-trevisan-dardin
